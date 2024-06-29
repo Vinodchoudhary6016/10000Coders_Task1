@@ -1,6 +1,6 @@
 
 
-### Completion of 10K Task: Making a Flag, Solar System, and Traffic Lights using CSS Simple Selectors
+### Completion of 10K Coders Task: Making a Flag, Solar System, and Traffic Lights using CSS Simple Selectors
 
 This repository demonstrates the use of CSS simple selectors by creating three distinct projects: a flag, a solar system, and traffic lights. Each project showcases the power of CSS in creating visually appealing designs with minimal HTML. The projects are designed to highlight the use of element selectors, ID selectors, and class selectors, along with fundamental CSS properties like margin, padding, and border.
 
