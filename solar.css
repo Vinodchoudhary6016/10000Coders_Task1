@@ -1,0 +1,171 @@
+.mercury {
+    border: solid 2px;
+    color: black;
+    height: 200px;
+    width: 200px;
+    border-radius: 200px;
+    margin-top: -151;
+    margin-left: 148px;
+}
+
+.sun {
+    border-radius: 100px;
+    height: 100px;
+    width: 100px;
+    background-color: orange;
+    text-align: justify;
+    margin-left: 100px;
+    margin-top: 300px;
+    box-shadow: 0 0 5em orangered;
+}
+
+.venus {
+    border: solid 2px;
+    color: black;
+    height: 300px;
+    width: 300px;
+    border-radius: 200px;
+    margin-top: -251;
+    margin-left: 148px;
+}
+
+.earth {
+    border: solid 2px;
+    color: black;
+    height: 400px;
+    width: 400px;
+    border-radius: 200px;
+    margin-top: -341;
+    margin-left: 148px;
+}
+
+.mars {
+    border: solid 2px;
+    color: black;
+    height: 500px;
+    width: 500px;
+    border-radius: 500px;
+    margin-top: -436;
+    margin-left: 143px;
+}
+
+.jupiter {
+    border: solid 2px;
+    color: black;
+    height: 600px;
+    width: 600px;
+    border-radius: 600px;
+    margin-top: -536;
+    margin-left: 143px;
+}
+
+.saturn {
+    border: solid 2px;
+    color: black;
+    height: 700px;
+    width: 700px;
+    border-radius: 700px;
+    margin-top: -656;
+    margin-left: 143px;
+}
+
+.uranus {
+    border: solid 2px;
+    color: black;
+    height: 800px;
+    width: 800px;
+    border-radius: 800px;
+    margin-top: -736;
+    margin-left: 143px;
+}
+
+.neptune {
+    border: solid 2px;
+    color: black;
+    height: 900px;
+    width: 900px;
+    border-radius: 900px;
+    margin-top: -856;
+    margin-left: 143px;
+}
+
+.im {
+    background-color: blue;
+    border-radius: 80px;
+    width: 80px;
+    height: 80px;
+    margin-top: -360px;
+    margin-left: 400px;
+    box-shadow: 0 0 5em blue;
+}
+
+.me {
+    background-color: brown;
+    border-radius: 80px;
+    width: 80px;
+    height: 80px;
+    margin-top: -360px;
+    margin-left: 250px;
+    box-shadow: 0 0 5em brown;
+}
+
+.ve {
+    background-color: orangered;
+    border-radius: 80px;
+    width: 80px;
+    height: 80px;
+    margin-top: 60px;
+    margin-left: 400px;
+    box-shadow: 0 0 5em orangered;
+}
+
+.ma {
+    background-color: green;
+    border-radius: 80px;
+    width: 80px;
+    height: 80px;
+    margin-top: 64px;
+    margin-left: 550px;
+    box-shadow: 0 0 5em green;
+}
+
+.ju {
+    background-color: lightcoral;
+    border-radius: 80px;
+    width: 80px;
+    height: 80px;
+    margin-top: 34px;
+    margin-left: 550;
+    box-shadow: 0 0 2em lightcoral;
+}
+
+.sat {
+    background-color: grey;
+    border-radius: 80px;
+    width: 80px;
+    height: 80px;
+    margin-top: -590px;
+    margin-left: 710px;
+    box-shadow: 0 0 5em grey;
+}
+
+.ur {
+    background-color: rgb(8, 8, 49);
+    border-radius: 80px;
+    width: 80px;
+    height: 80px;
+    margin-top: 140px;
+    margin-left: 910px;
+    box-shadow: 0 0 5em rgb(8, 8, 49);
+    ;
+}
+
+.ne {
+    background-color: rgb(130, 12, 12);
+    border-radius: 80px;
+    width: 80px;
+    height: 80px;
+    margin-top: 240px;
+    margin-left: 910px;
+    box-shadow: 0 0 5em rgb(130, 12, 12);
+}
